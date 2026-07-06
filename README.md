@@ -142,14 +142,14 @@ newer fields (like `ApiKey`) get upgraded in place automatically.
 
 | # | Model | Size | Label | Best for |
 |---|---|---|---|---|
-| 1 | Qwen2.5 Coder 7B (Recommended) | ~4.68 GB | RECOMMENDED | Coding |
-| 2 | Qwen2.5 Coder 14B Instruct | ~9.0 GB | STANDARD | Coding (large) |
-| 3 | Qwen3 4B Thinking (Genius Coder) | ~3.0 GB | STANDARD | Reasoning / coding |
-| 4 | DeepSeek Coder V2 Lite | ~10.4 GB | STANDARD | Fast/lightweight coding |
-| 5 | Phi-4 Mini Uncensored | ~2.49 GB | UNCENSORED | Reasoning |
-| 6 | Phi-4 Mini 3.8B | ~2.49 GB | STANDARD | General use |
-| 7 | Gemma 4 12B (IQ2_M) | ~4.94 GB | STANDARD | Writing / UI |
-| 8 | CodeLlama 13B Instruct | 7.9 GB | STANDARD | Coding (legacy, lower-end machines) |
+| 1 | Qwen2.5 Coder 7B (Recommended) |~4.68GB| RECOMMENDED | Coding |
+| 2 | Qwen2.5 Coder 14B Instruct |~9.0GB| STANDARD | Coding (large) |
+| 3 | Qwen3 4B Thinking (Genius Coder) |~3.0GB| STANDARD | Reasoning / coding |
+| 4 | DeepSeek Coder V2 Lite |~10.4GB| STANDARD | Fast/lightweight coding |
+| 5 | Phi-4 Mini Uncensored |~2.49GB| UNCENSORED | Reasoning |
+| 6 | Phi-4 Mini 3.8B |~2.49GB| STANDARD | General use |
+| 7 | Gemma 4 12B (IQ2_M) |~4.94GB| STANDARD | Writing / UI |
+| 8 | CodeLlama 13B Instruct |~7.9GB| STANDARD | Coding (legacy, lower-end machines) |
 
 Grouped by family so related models sit together: the three Qwen models
 first (chronological — Qwen2.5-7B, Qwen2.5-14B, then the newer Qwen3-4B),
